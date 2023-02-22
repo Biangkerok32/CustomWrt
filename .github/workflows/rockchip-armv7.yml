@@ -8,7 +8,7 @@ on:
   #   types: started
 
 env:
-  CONFIG_FILE: config/rockchip/armv7.config
+  CONFIG_FILE: config/rockchip/rockchip-armv7.config
   SOURCE_URL: https://github.com/coolsnowwolf/lede.git
   SOURCE_BRANCH: master
   DIY_SH: scripts/custom.sh
