@@ -17,7 +17,7 @@ env:
   TOOLCHAIN_RELEASE_UPLOAD: true
   FIRMWARE_RELEASE_UPLOAD: true
   WEB_ROOT_PATH: /data/www/lede
-  TZ: Asia/Shanghai
+  TZ: Asia/Jakarta
 
 jobs:
   Toolchain:
